@@ -2,10 +2,6 @@ from mcp.server.fastmcp import FastMCP
 from pygooglenews import GoogleNews
 from newspaper import Article
 from newspaper.article import ArticleException
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
 from typing import List, Dict
 import requests
 import time

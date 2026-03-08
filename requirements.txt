@@ -1,0 +1,8 @@
+mcp
+newspaper3k
+requests
+pywhatkit
+lxml
+beautifulsoup4
+pygooglenews
+newspaper3k
